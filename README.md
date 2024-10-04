@@ -35,3 +35,11 @@
 
 #### _Bu işlemlerin sonucunda, artık elektrik tüketiminizin maliyetini aylık görebilirsiniz._
 
+---
+
+# After and Before Images
+
+## Before:
+![alt text](https://raw.githubusercontent.com/webaraclar/solar-assistant/refs/heads/main/after.png "Before image")
+## After:
+![alt text](https://raw.githubusercontent.com/webaraclar/solar-assistant/refs/heads/main/after.png "After image")
