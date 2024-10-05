@@ -13,9 +13,9 @@
 
 5- Enter an integer or decimal value in the “Unit Price (kWh)” window and press the confirm button.
 
-6- With the above operations, an additional column named “Electricity Bill” will be added to the table named “Last 12 months” of your open page.
+6- With the above operations, an additional column named “Electricity Bill” will be added to the table named "Last 30 days" and “Last 12 months” of your open page.
 
-#### _As a result of these actions, you can now see the monthly cost of your electricity consumption._
+#### _As a result of these actions, you can now see the daily and monthly costs of your electricity consumption._
 
 ---
 
@@ -31,15 +31,15 @@
 
 5- Açılacak olan "Unit Price (kWh)" penceresine tam sayı veya ondalıklı bir değer girin ve onay butonuna basın.
 
-6- Yukarıdaki işlemler ile açık olan sayfanızın "Last 12 months" adlı tablosuna "Electricity Bill" adlı bir ek sütun eklenecek.
+6- Yukarıdaki işlemler ile açık olan sayfanızın "Last 30 days" ve "Last 12 months" adlı tablolara "Electricity Bill" adlı bir ek sütun eklenecek.
 
-#### _Bu işlemlerin sonucunda, artık elektrik tüketiminizin maliyetini aylık görebilirsiniz._
+#### _Bu işlemlerin sonucunda, artık elektrik tüketiminizin maliyetini günlük veaylık görebilirsiniz._
 
 ---
 
-# After and Before Images
+# Daily and Monthly Images
 
-## Before:
-![alt text](https://raw.githubusercontent.com/webaraclar/solar-assistant/refs/heads/main/after.png "Before image")
-## After:
-![alt text](https://raw.githubusercontent.com/webaraclar/solar-assistant/refs/heads/main/after.png "After image")
+## Daily:
+![alt text](https://raw.githubusercontent.com/webaraclar/solar-assistant/refs/heads/main/images/daily.png "Daily")
+## Monthly:
+![alt text](https://raw.githubusercontent.com/webaraclar/solar-assistant/refs/heads/main/images/monthly.png "Monthly")
