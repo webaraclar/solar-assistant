@@ -9,7 +9,7 @@
 
 3- While on the page you opened in step 2, open “Developer Settings” in your browser (shortcut: CTRL+SHIFT+I) and switch to the console tab.
 
-4- Paste the xcc.js content you copied in step 1 into the console and press enter.
+4- Paste the ecs.js content you copied in step 1 into the console and press enter.
 
 5- Enter an integer or decimal value in the “Unit Price (kWh)” window and press the confirm button.
 
